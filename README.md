@@ -46,7 +46,7 @@ The code is structured as follows:
 
 1. Clone the repository:
 
-- git clone https://github.com/your-username/housing-price-prediction-pyspark.git
+- git clone https://github.com/Kavyagandhi23/ML-using-PySpark.git
 - cd housing-price-prediction-pyspark
 
 2. Install the required dependencies:
